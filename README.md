@@ -21,7 +21,6 @@ I'm a focused software engineer with a strong interest in the intersection of **
 ## Selected Work
 
 Instead of a giant table here, check out the curated dashboard for categorized repos with topics, languages, and links:
-- **Portfolio Dashboard** → [omkumar0101.github.io](https://omkumar0101.github.io)
 - **GitHub Repos** → [github.com/omkumar0101](https://github.com/omkumar0101)
 
 ---
@@ -29,8 +28,5 @@ Instead of a giant table here, check out the curated dashboard for categorized r
 <div align="center">
   <a href="https://github.com/omkumar0101">
     <img src="https://img.shields.io/badge/GitHub-omkumar0101-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://omkumar0101.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-omkumar0101.github.io-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
